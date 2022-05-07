@@ -14,3 +14,6 @@ In the new blank column, add the heading “Helper column” and insert the foll
 This formula determines the max value in our data (in this case 636), 
 calculates the difference between the max and the current value and then divides the result by 2 to center the bar, like so:
 
+<img src="https://www.benlcollins.com/wp-content/uploads/2016/12/data_helper.jpg" width="450" height="306">
+
+
